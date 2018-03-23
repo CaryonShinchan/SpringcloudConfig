@@ -1,0 +1,7 @@
+server:
+   port: 8081
+
+hero:
+   name: 王大锤
+   age: 20
+   phone: 13626263728
