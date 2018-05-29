@@ -3,6 +3,6 @@ server:
    #context-path: /aaa
 
 hero:
-   name: 赵宝22
+   name: 赵宝
    age: 18
-   phone: 136262637282222
+   phone: 13626263728
